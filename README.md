@@ -11,3 +11,5 @@ Image classification using TensorFlow
 - Addition of regularization
 
 <i>Download archive from Kaggle</i>
+
+<i><a href="https://mcogrysko.github.io">Back to Mike Ogrysko's portfolio</a></i>
